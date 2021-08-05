@@ -27,6 +27,6 @@
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB-san&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AB-san"/></td></tr></table>
 
-![snake gif](https://github.com/AB-san/AB-san/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AB-san/AB-san/blob/output/github-contribution-grid-snake.svg)
 
 
